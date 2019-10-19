@@ -15,10 +15,12 @@ For each patient id in test set, you must predict if a patient is going to adher
 Example:
 ![alt text](https://github.com/abhranil-datascience/PrescriptionAdherence/blob/master/Capture.PNG)
 
+
 • Precision for Yes: 280/(280+1463)= 16.1%
 • Recall for Yes : 280/(280+42)= 87.0%
 • Precision for No: 18270/(18270+42)= 99.8%
 • Recall for No: 18270/(18270+1463)= 92.6%
+
 
 ## Submission file format:
 You need to upload final results and code in a zip file. It should have:
