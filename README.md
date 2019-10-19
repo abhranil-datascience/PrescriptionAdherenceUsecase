@@ -12,14 +12,13 @@ Your model should give probability score for each patient and a prediction of wh
 
 ## Evaluation:
 For each patient id in test set, you must predict if a patient is going to adhere to the prescribed regimen. Your model will be evaluated on precision and recall for both the outcomes. So, your code must include generation of confusion matrix for your predictions.
-Example:
+Example:<br />
 ![alt text](https://github.com/abhranil-datascience/PrescriptionAdherence/blob/master/Capture.PNG)
-
-
-• Precision for Yes: 280/(280+1463)= 16.1%
-• Recall for Yes : 280/(280+42)= 87.0%
-• Precision for No: 18270/(18270+42)= 99.8%
-• Recall for No: 18270/(18270+1463)= 92.6%
+<br />
+• Precision for Yes: 280/(280+1463)= 16.1%<br />
+• Recall for Yes : 280/(280+42)= 87.0%<br />
+• Precision for No: 18270/(18270+42)= 99.8%<br />
+• Recall for No: 18270/(18270+1463)= 92.6%<br />
 
 
 ## Submission file format:
