@@ -22,10 +22,10 @@ Example:<br />
 
 
 ## Submission file format:
-You need to upload final results and code in a zip file. It should have:
-a.) Result: In a csv file, adherence metric as yes or no for each patient with a probability score between 0 to 1.
-Sample output:
+You need to upload final results and code in a zip file. It should have:<br />
+a.) Result: In a csv file, adherence metric as yes or no for each patient with a probability score between 0 to 1.<br />
+Sample output:<br />
 patient_id, adherence, probability score
-1001, yes, 0.99
-b.) Code in a file with appropriate file extension.
+1001, yes, 0.99<br />
+b.) Code in a file with appropriate file extension.<br />
 c) A word document describing your approach to solve the above problem.
